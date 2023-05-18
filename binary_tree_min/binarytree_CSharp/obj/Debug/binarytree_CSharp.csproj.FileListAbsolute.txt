@@ -1,0 +1,16 @@
+C:\AADS\binarytree demo C++ (with delete), C#\binarytree_CSharp\bin\Debug\binarytree_CSharp.exe.config
+C:\AADS\binarytree demo C++ (with delete), C#\binarytree_CSharp\bin\Debug\binarytree_CSharp.exe
+C:\AADS\binarytree demo C++ (with delete), C#\binarytree_CSharp\bin\Debug\binarytree_CSharp.pdb
+C:\AADS\binarytree demo C++ (with delete), C#\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.AssemblyReference.cache
+C:\AADS\binarytree demo C++ (with delete), C#\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\AADS\binarytree demo C++ (with delete), C#\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.CoreCompileInputs.cache
+C:\AADS\binarytree demo C++ (with delete), C#\binarytree_CSharp\obj\Debug\binarytree_CSharp.exe
+C:\AADS\binarytree demo C++ (with delete), C#\binarytree_CSharp\obj\Debug\binarytree_CSharp.pdb
+C:\AADS\binarytree exercise\binarytree_CSharp\bin\Debug\binarytree_CSharp.exe.config
+C:\AADS\binarytree exercise\binarytree_CSharp\bin\Debug\binarytree_CSharp.exe
+C:\AADS\binarytree exercise\binarytree_CSharp\bin\Debug\binarytree_CSharp.pdb
+C:\AADS\binarytree exercise\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.AssemblyReference.cache
+C:\AADS\binarytree exercise\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\AADS\binarytree exercise\binarytree_CSharp\obj\Debug\binarytree_CSharp.csproj.CoreCompileInputs.cache
+C:\AADS\binarytree exercise\binarytree_CSharp\obj\Debug\binarytree_CSharp.exe
+C:\AADS\binarytree exercise\binarytree_CSharp\obj\Debug\binarytree_CSharp.pdb
